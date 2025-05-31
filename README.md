@@ -48,7 +48,6 @@ This is an **EDA-only** project, ideal for business understanding and identifyin
 
 > 📌 These patterns suggest areas where businesses can take proactive steps to improve customer retention.
 
----
 
 ## ▶How to Run
 
@@ -62,4 +61,6 @@ Chayanika
 Email: chayanikasarkar701@gmail.com
 MCA Graduate | Aspiring Data Analyst
 LinkedIn (optional)
+
+
 
